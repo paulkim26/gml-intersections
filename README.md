@@ -5,7 +5,6 @@ A set of functions to determine whether various lines and 2D polygons intersect 
 Tested with `Game Maker 8.1 Standard`. Utilizes 'pro' functionality for Game Maker versions `8.1` and lower. Untested with `Game Maker Studio`.
 
 ## Functions
-
 | Function | Arguments | Returns | Description |
 | - | - | - | - |
 | `line_intersect` | `x1`, `y1`, `x2`, `y2`, `x3`, `y3`, `x4`, `y4`, `segment` | `boolean` | Returns whether two lines intersect with one another. `x1,y1,x2,y2` denote the coordinates of line 1. `x3,y3,x4,y4` denote the coordinates of line 2. `segment` denotes whether two lines are line segments (`true`) or infinitely long lines (`false`). |
