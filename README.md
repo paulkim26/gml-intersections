@@ -2,7 +2,7 @@
 A set of functions to determine whether various lines and 2D polygons intersect with one another in Game Maker.
 
 ## Compatibility
-Tested with `Game Maker 8.1`. Utilizes 'pro' functionality for Game Maker versions `8.1` and lower. Untested with `Game Maker Studio`.
+Tested with `Game Maker 8.1 Standard`. Utilizes 'pro' functionality for Game Maker versions `8.1` and lower. Untested with `Game Maker Studio`.
 
 ## Functions
 
